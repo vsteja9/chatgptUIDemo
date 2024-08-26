@@ -1,0 +1,26 @@
+/* src/App.css */
+.App {
+    display: flex;
+    height: 100vh;
+    font-family: "Helvetica", "Arial", sans-serif;
+    background-color: #f5f5f5;
+    position: relative;
+  }
+  
+  .openSidebarButton {
+    position: fixed; /* Position it fixed to always be visible */
+    top: 20px; /* Adjust position based on your design */
+    left: 10px;
+    background: #007bff;
+    color: #ffffff;
+    border: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    cursor: pointer;
+    z-index: 1000; /* Ensure it's above other elements */
+  }
+  
+  .openSidebarButton:hover {
+    background-color: #0056b3;
+  }
+  
