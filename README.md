@@ -49,6 +49,6 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 
 
-The Demo UI looks like
+The Demo UI looks like :
 <img width="923" alt="chatgptdemo" src="https://github.com/user-attachments/assets/7ebb8a8e-e189-447f-921f-d05244eaa3c0">
 
